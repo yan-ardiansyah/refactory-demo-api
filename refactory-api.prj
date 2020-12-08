@@ -6,6 +6,7 @@
    <UUID>8ac7c299-0528-4d8c-91dc-9fedb8a71615</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\BE7\Katalon Studio\refactory-api\refactory-api.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
